@@ -1,0 +1,5 @@
+# Keep local deployment utilities out of repositories rooted at Codex.
+**/deploy.bat
+**/deploy.ps1
+**/deploy_settings.json
+**/README_AUTO_DEPLOY.md
